@@ -1,0 +1,14 @@
+{
+  "name": "assouan/php-plus",
+  "description": "set of useful function",
+  "version": "1.0.0-beta",
+  "type": "library",
+  "keywords": [
+    "php",
+    "plus",
+    "utils"
+  ],
+  "autoload": {
+    "files": ["inc/functions.php"]
+  }
+}
